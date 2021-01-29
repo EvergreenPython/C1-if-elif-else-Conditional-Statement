@@ -1,4 +1,4 @@
-## If/Elif/Else Conditional Statements 
+## if/elif/else Conditional Statements 
 Used for decision-making operations with conditions
 
 Conditional statements always start with an 
